@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Datenschutzerklärung – GymArt</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; padding: 0 16px; }
+    h1 { font-size: 1.8em; margin-bottom: 0.5em; }
+    pre { white-space: pre-wrap; font-family: inherit; }
+  </style>
+</head>
+<body>
+  <h1>Datenschutzerklärung</h1>
+  <pre>
+Datenschutzerklärung (Version 1.0.0)
+Zuletzt aktualisiert: 29.08.2025
+
+1. Verantwortlicher
+GymArt, Abubakr Ismoilov, Kaisermühlenstrasse 14, 1220 Wien, Österreich, E-Mail: gymarts@yahoo.com
+
+2. Arten personenbezogener Daten
+• Profil (freiwillig): Name
+• Trainingsdaten: Sessions, Übungen, Punkte
+• Körperdaten (freiwillig, besondere Daten iSd Art. 9 DSGVO): Gewichtseinträge
+• Gerätedaten/Metadaten: technische Logs (lokal), App-Version
+
+3. Zwecke der Verarbeitung
+• Bereitstellung der App-Funktionen (Trainingsplanung, Protokollierung)
+• Darstellung persönlicher Fortschritte
+• Sicherheit, Stabilität, Fehlerdiagnose
+
+... (hier den gesamten PRIVACY_TEXT aus legalTexts.js einfügen)
+  </pre>
+</body>
+</html>
