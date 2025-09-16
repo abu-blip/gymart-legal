@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AGB / Nutzungsbedingungen – GymArt</title>
+  <style>
+    body { font-family: sans-serif; max-width: 800px; margin: 40px auto; line-height: 1.6; padding: 0 16px; }
+    h1 { font-size: 1.8em; margin-bottom: 0.5em; }
+    pre { white-space: pre-wrap; font-family: inherit; }
+  </style>
+</head>
+<body>
+  <h1>AGB / Nutzungsbedingungen</h1>
+  <pre>
+AGB / Nutzungsbedingungen (Version 1.0.0)
+Zuletzt aktualisiert: 29.08.2025
+
+1. Geltungsbereich
+Diese Bedingungen regeln die Nutzung der App "GymArt" (nachfolgend "App"). Mit Nutzung der App akzeptierst du diese AGB.
+
+2. Leistungsbeschreibung (kein Medizinprodukt)
+Die App dient Trainingsplanung, Protokollierung (Sessions, Punkte, Übungen) und Selbstkontrolle (z. B. Körpergewicht). Die App erbringt keine ärztliche oder therapeutische Leistung und stellt keine Diagnose oder Behandlung dar.
+
+... (hier den gesamten TERMS_TEXT aus legalTexts.js einfügen)
+  </pre>
+</body>
+</html>
