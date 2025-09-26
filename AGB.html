@@ -17,6 +17,10 @@
     .lang-de{display:block}
     .lang-en{display:none}
     /* CSS-only toggle via :target. Place #de / #en anchors before <main>. */
+    #en:target ~ main .lang-de{display:none}
+    #en:target ~ main .lang-en{display:block}
+    #de:target ~ main .lang-de{display:block}
+    #de:target ~ main .lang-en{display:none}
     h1{font-size:28px;line-height:1.2;margin:8px 0 16px;font-weight:800}
     h2{font-size:18px;margin:22px 0 8px;font-weight:800}
     p,li{margin:10px 0}
@@ -33,7 +37,6 @@
 
   <main class="wrap">
     <header>
-
       <div>
         <a href="#de" class="btn" aria-label="Deutsch">Deutsch</a>
         <a href="#en" class="btn" aria-label="English">English</a>
