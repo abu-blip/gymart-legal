@@ -1,3 +1,6 @@
+from pathlib import Path
+
+p = Path("/mnt/data/AGB.html")
 
 style = """
 :root{--ink:#111827;--bg:#ffffff;--muted:#6b7280;--hair:#e5e7eb;--brand:#111827}
@@ -173,4 +176,7 @@ html = f"""<!doctype html>
     <footer>© GymArt · Wien · Österreich</footer>
   </main>
 </body>
-</html>
+</html>"""
+
+p.write_text(html, encoding="utf-8")
+str(p)
